@@ -1,3 +1,4 @@
 # MALAssignment4
+## Our regular expression diagram
 
-![Regular expression diagram](https://github.com/MadsMeinertAndersenCPHBusiness/MiniProject1MAL/blob/main/SortTimes-MiniProject1.PNG)
+![Regular expression diagram](https://github.com/MadsMeinertAndersenCPHBusiness/MALAssignment4/blob/main/MALAssignment4.JPG)
